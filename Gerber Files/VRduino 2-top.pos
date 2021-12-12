@@ -1,0 +1,34 @@
+### Module positions - created on Tuesday, September 28, 2021 at 06:55:35 AM ###
+### Printed by Pcbnew version (5.99.0-12298-gc84619cd7f)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                               PosX       PosY       Rot  Side
+C1        1.0uf              C_0402_1005Metric                 196.4690   -70.1040  180.0000  top
+C2        0.1uf              C_0402_1005Metric                 201.0130   -72.0090    0.0000  top
+C3        1.0uf              C_0402_1005Metric                 202.3110  -115.3160    0.0000  top
+C4        0.1uf              C_0402_1005Metric                 197.7110  -113.4110  180.0000  top
+C5        1.0uf              C_0402_1005Metric                 112.6490   -70.1040  180.0000  top
+C6        0.1uf              C_0402_1005Metric                 117.2210   -72.0090    0.0000  top
+C7        1.0uf              C_0402_1005Metric                 118.6180  -115.3160    0.0000  top
+C8        0.1uf              C_0402_1005Metric                 113.9190  -113.2840  180.0000  top
+D1        LED                LED_0402_1005Metric               157.4800   -67.9450  -90.0000  top
+D2        BPW34-SMD          Osram_SMD-DIL2_4.5x4.0mm          199.3900   -67.3100  180.0000  top
+D3        BPW34-SMD          Osram_SMD-DIL2_4.5x4.0mm          199.3900  -118.1100    0.0000  top
+D4        BPW34-SMD          Osram_SMD-DIL2_4.5x4.0mm          115.5700   -67.3100  180.0000  top
+D5        BPW34-SMD          Osram_SMD-DIL2_4.5x4.0mm          115.5700  -118.1100    0.0000  top
+G***      LOGO               Logo                              157.4800  -117.3480    0.0000  top
+J1        Conn_01x14_Female  PinSocket_1x14_P2.54mm_Vertical   176.5300   -76.2000    0.0000  top
+J2        Conn_01x14_Female  PinSocket_1x14_P2.54mm_Vertical   191.7700   -76.2000    0.0000  top
+J3        Conn_01x06_Female  PinSocket_1x06_P2.54mm_Vertical   151.1300   -99.0600   90.0000  top
+J4        Conn_01x06_Female  PinSocket_1x06_P2.54mm_Vertical   151.1300   -86.3600   90.0000  top
+J5        Conn_01x16_Female  PinSocket_1x16_P2.54mm_Vertical   130.8100   -73.6600    0.0000  top
+R1        280                R_0402_1005Metric                 176.5300   -68.5800    0.0000  top
+R2        15k                R_0402_1005Metric                 196.4690   -71.1200  180.0000  top
+R3        15k                R_0402_1005Metric                 202.3110  -114.3000    0.0000  top
+R4        15k                R_0402_1005Metric                 112.6490   -71.1200  180.0000  top
+R5        15k                R_0402_1005Metric                 118.6180  -114.1730    0.0000  top
+U1        TS4231             Triad_Semi-TS4231-0               199.1440   -70.6120    0.0000  top
+U2        TS4231             Triad_Semi-TS4231-0               199.6440  -114.8080  180.0000  top
+U3        TS4231             Triad_Semi-TS4231-0               115.3160   -70.6120    0.0000  top
+U4        TS4231             Triad_Semi-TS4231-0               115.8240  -114.8080  180.0000  top
+## End
